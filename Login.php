@@ -19,7 +19,7 @@
             font-size:14px;
          }
          .box {
-            border:#666666 solid 1px;
+            border:#666666 solid 13px;
          }
       </style>
 
